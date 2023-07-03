@@ -1,0 +1,90 @@
+{
+  "name": "cisco-ios-xe-native",
+  "version": "17.6.1-dev5",
+  "core_version": "0.8.5",
+  "author": "ESLAU",
+  "copyright": "",
+  "description": "",
+  "long_description": "",
+  "models": {
+    "description": "",
+    "git": [
+      {
+        "url": "https://github.com/hyberdk/yang.git",
+        "commits": [
+          {
+            "file": [
+              "vendor/cisco/xe/1761/Cisco-IOS-XE-native.yang",
+              "vendor/cisco/xe/1761/cisco-semver.yang",
+              "vendor/cisco/xe/1761/Cisco-IOS-XE-types.yang",
+              "vendor/cisco/xe/1761/Cisco-IOS-XE-features.yang",
+              "vendor/cisco/xe/1761/Cisco-IOS-XE-interface-common.yang",
+              "vendor/cisco/xe/1761/Cisco-IOS-XE-parser.yang",
+              "vendor/cisco/xe/1761/Cisco-IOS-XE-license.yang",
+              "vendor/cisco/xe/1761/Cisco-IOS-XE-line.yang",
+              "vendor/cisco/xe/1761/Cisco-IOS-XE-logging.yang",
+              "vendor/cisco/xe/1761/Cisco-IOS-XE-ip.yang",
+              "vendor/cisco/xe/1761/Cisco-IOS-XE-interfaces.yang",
+              "vendor/cisco/xe/1761/Cisco-IOS-XE-ipv6.yang",
+              "vendor/cisco/xe/1761/Cisco-IOS-XE-acl.yang",
+              "vendor/cisco/xe/1761/Cisco-IOS-XE-object-group.yang",
+
+              "vendor/cisco/xe/1761/tailf-netconf-query.yang",
+              "vendor/cisco/xe/1761/tailf-common.yang",
+              "vendor/cisco/xe/1761/tailf-meta-extensions.yang",
+              "vendor/cisco/xe/1761/tailf-cli-extensions.yang",
+              "vendor/cisco/xe/1761/tailf-common-query.yang",
+
+              "vendor/cisco/xe/1761/ietf-diffserv-action.yang",
+              "vendor/cisco/xe/1761/ietf-diffserv-classifier.yang",
+              "vendor/cisco/xe/1761/ietf-diffserv-policy.yang",
+              "vendor/cisco/xe/1761/ietf-diffserv-target.yang",
+              "vendor/cisco/xe/1761/ietf-event-notifications.yang",
+              "vendor/cisco/xe/1761/ietf-inet-types.yang",
+              "vendor/cisco/xe/1761/ietf-interfaces-ext.yang",
+              "vendor/cisco/xe/1761/ietf-interfaces.yang",
+              "vendor/cisco/xe/1761/ietf-ip.yang",
+              "vendor/cisco/xe/1761/ietf-ipv4-unicast-routing.yang",
+              "vendor/cisco/xe/1761/ietf-ipv6-unicast-routing.yang",
+              "vendor/cisco/xe/1761/ietf-key-chain.yang",
+              "vendor/cisco/xe/1761/ietf-netconf-acm.yang",
+              "vendor/cisco/xe/1761/ietf-netconf-monitoring.yang",
+              "vendor/cisco/xe/1761/ietf-netconf-notifications.yang",
+              "vendor/cisco/xe/1761/ietf-netconf-with-defaults.yang",
+              "vendor/cisco/xe/1761/ietf-netconf.yang",
+              "vendor/cisco/xe/1761/ietf-ospf.yang",
+              "vendor/cisco/xe/1761/ietf-restconf-monitoring.yang",
+              "vendor/cisco/xe/1761/ietf-restconf.yang",
+              "vendor/cisco/xe/1761/ietf-routing-types.yang",
+              "vendor/cisco/xe/1761/ietf-routing.yang",
+              "vendor/cisco/xe/1761/ietf-yang-library.yang",
+              "vendor/cisco/xe/1761/ietf-yang-patch-ann.yang",
+              "vendor/cisco/xe/1761/ietf-yang-patch.yang",
+              "vendor/cisco/xe/1761/ietf-yang-push.yang",
+              "vendor/cisco/xe/1761/ietf-yang-smiv2.yang",
+              "vendor/cisco/xe/1761/ietf-yang-types.yang",
+
+              "vendor/cisco/xe/1761/tailf-cli-extensions.yang",
+              "vendor/cisco/xe/1761/tailf-common-monitoring.yang",
+              "vendor/cisco/xe/1761/tailf-common-query.yang",
+              "vendor/cisco/xe/1761/tailf-common.yang",
+              "vendor/cisco/xe/1761/tailf-confd-monitoring.yang",
+              "vendor/cisco/xe/1761/tailf-meta-extensions.yang",
+              "vendor/cisco/xe/1761/tailf-netconf-extensions.yang",
+              "vendor/cisco/xe/1761/tailf-netconf-inactive.yang",
+              "vendor/cisco/xe/1761/tailf-netconf-monitoring.yang",
+              "vendor/cisco/xe/1761/tailf-netconf-query.yang",
+              "vendor/cisco/xe/1761/tailf-netconf-transactions.yang",
+              "vendor/cisco/xe/1761/tailf-rest-error.yang",
+              "vendor/cisco/xe/1761/tailf-rest-query.yang",
+              "vendor/cisco/xe/1761/tailf-xsd-types.yang",
+              
+              "vendor/cisco/xe/1761/policy-types.yang"
+
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
